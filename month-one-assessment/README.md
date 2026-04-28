@@ -1,5 +1,3 @@
-README.MD
-
 # TechCorp Terraform Deployment - Project Overview
 This terraform project creates a complete terraform configuration that provisions a VPC, public and private subnets, 
 Internet and NAT gateways, security groups, 3 EC2 instances (Bastion, web and DB) and an application load balancer.
